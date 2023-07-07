@@ -5,7 +5,7 @@ Param (
     [bool]$ByPass = $false
 )
 
-$topologyArray = "xm1, xp0, xp1";
+$topologyArray = "xm1";
 
 $ErrorActionPreference = "Stop";
 $startDirectory = ".\run\sitecore-";

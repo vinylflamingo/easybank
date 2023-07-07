@@ -1,0 +1,6 @@
+id: link-blog
+template: generic-link-template
+fields:
+  linkTitle: Blog
+  link: 
+    href: /

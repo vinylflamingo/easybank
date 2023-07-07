@@ -1,0 +1,6 @@
+id: link-request-invite
+template: generic-link-template
+fields:
+  linkTitle: Request Invite
+  link: 
+    href: /

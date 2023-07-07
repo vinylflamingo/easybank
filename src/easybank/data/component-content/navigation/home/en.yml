@@ -1,0 +1,6 @@
+id: link-home
+template: generic-link-template
+fields:
+  linkTitle: Home
+  link: 
+    href: /

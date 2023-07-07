@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "c:\\tutorials\\easybank\\docker\\deploy",
+    "layoutServiceHost": "https://cm.easybank.localhost",
+    "deployUrl": "https://cm.easybank.localhost/sitecore/api/jss/import",
+    "apiKey": "{350BE04C-2E71-46C8-9D75-D60269BFFF0B}",
+    "deploySecret": "rgfhws2aadp40lz8pzn84sa11cghqoczemuw82wfho"
+  }
+}

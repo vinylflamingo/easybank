@@ -1,0 +1,6 @@
+id: link-about
+template: generic-link-template
+fields:
+  linkTitle: About
+  link: 
+    href: /

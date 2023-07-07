@@ -1,0 +1,24 @@
+{
+    "namespace": "easybank",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/easybank"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/easybank"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/easybank"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/easybank"
+            }
+        ]
+    }
+}

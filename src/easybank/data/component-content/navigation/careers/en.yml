@@ -1,0 +1,6 @@
+id: link-careers
+template: generic-link-template
+fields:
+  linkTitle: Careers
+  link: 
+    href: /

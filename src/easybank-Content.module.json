@@ -1,0 +1,16 @@
+{
+    "namespace": "easybank-Content",
+    "references": [ "easybank" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/easybank"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/easybank"
+            }
+        ]
+    }
+}

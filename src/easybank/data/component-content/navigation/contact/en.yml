@@ -1,0 +1,6 @@
+id: link-contact
+template: generic-link-template
+fields:
+  linkTitle: Contact
+  link: 
+    href: /

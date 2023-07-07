@@ -1,0 +1,40 @@
+.navigation {
+    background-color: #FFF;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    height: 5rem;
+    width: 100%;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.navigation nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 1rem;
+    padding: 0;
+}
+
+.cta-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10.1875rem;
+    height: 2.75rem;
+    flex-shrink: 0;
+}
+
+.logo {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

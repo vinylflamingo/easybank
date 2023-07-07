@@ -15,6 +15,10 @@
    ```ps1
     .\up.ps1
     ```
+   You can use the -noapp flag to only launch the containers with sitecore, and not the jss application. 
+    ```ps1
+    .\up.ps1 -noapp
+    ```
 4. Begin Development!
 5. Before checking in, serialize new templates and content with: 
     ```ps1 

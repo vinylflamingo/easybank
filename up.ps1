@@ -2,7 +2,10 @@
 Param (
     [Parameter(HelpMessage = "Alternative login using app client.",
         ParameterSetName = "by-pass")]
-    [bool]$ByPass = $false
+    [bool]$ByPass = $false,
+
+    [Parameter(Mandatory=$false, HelpMessage="Run the containers without starting the front end application.")]
+    [switch]$noapp
 )
 
 $topologyArray = "xm1";
@@ -120,16 +123,14 @@ if (Test-Path .\src\items\content) {
     dotnet sitecore ser pull
 }
 
-Write-Host "Starting dev site..." -ForegroundColor Green
-
-Push-Location src\easybank
-npm run install
-npm run start:connected
-
+Write-Host "Sitecore environment is ready." -ForegroundColor Green
+Write-Host "Opening Sitecore..." -ForegroundColor Green
 Start-Process https://cm.easybank.localhost/sitecore/
-Start-Process http://localhost:3000/
 
-Write-Host ""
-Write-Host "Use the following command to monitor your Rendering Host:" -ForegroundColor Green
-Write-Host "docker-compose logs -f rendering"
-Write-Host ""
+if (!$noapp) {
+    Write-Host "Starting JSS app..." -ForegroundColor Green
+    Push-Location src\easybank
+    npm install
+    npm run start:connected
+
+}

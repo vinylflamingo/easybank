@@ -1,0 +1,56 @@
+﻿---
+ID: "4e7eb136-21bb-5628-9800-7ad4a4bb1064"
+Parent: "c671f5c9-6fc1-540a-ad9c-954ad9a38524"
+Template: "74d26959-7558-50f0-9ecf-24a69c939bd1"
+Path: /sitecore/content/easybank/Home/Page Components/Navigation
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Navigation
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T145723Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "6e818823-100e-56ac-8990-433fb609d3da"
+      Hint: Logo
+      Value: |
+        <image mediaid="{03D8B363-A27C-5EDE-B0F6-3F195BB5B4D0}" alt="Easy Bank Logo" />
+    - ID: "7b5f3dfa-7f68-5922-b209-529400223a21"
+      Hint: Request Link
+      Value: |
+        <link id="{257EAE6A-6F3A-5272-AE3E-DC0FEC4F7F7C}" linktype="internal" url="/easybank/Home" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "afe970f4-23bf-410c-bfe6-85fd10485296"
+    - ID: "8d41e5cc-6ffa-5227-89e6-ac6b4e114859"
+      Hint: Links
+      Value: |
+        {D62F2411-BD29-5CB3-A3A9-E86F90711112}
+        {FF79C2C0-9858-5E04-9B6B-6539340D12D2}
+        {B42E735F-69E6-5B76-B497-D98E9A6E2B7E}
+        {79CFBA6C-CEF4-5877-AE63-415E37D7ECFE}
+        {853A6308-8622-5431-B69B-14FFC5F97E0A}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T155053Z
+    - ID: "eed097b4-a036-59fa-96c1-084aa18e1422"
+      Hint: Request Link Title
+      Value: Request Invite

@@ -1,0 +1,55 @@
+﻿---
+ID: "81f3e49a-21f3-524f-b116-b11bf6d21dc8"
+Parent: "7f9219c4-0a5d-590e-aa89-0e48840c99f2"
+Template: "7f9219c4-0a5d-590e-aa89-0e48840c99f2"
+Path: /sitecore/templates/Project/easybank/App Route/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{7F9219C4-0A5D-590E-AA89-0E48840C99F2}"
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{19DE6FAB-E077-5109-9319-BB778071853D}">
+        <p
+          uid="{3DD8E705-96CD-53AD-B3D3-34D933CD3C64}"
+          key="jss-main"
+          md="{A30BFC39-731B-5F7D-A600-71B713801B22}" />
+        <p
+          uid="{FF398819-23BB-5D18-B607-08D05BA182F6}"
+          key="jss-tabs"
+          md="{04F4EB3A-93B7-5F7D-821A-EF3A78A934DA}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T143914Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "daa64f1c-ee28-4bff-9ed6-a969bfb35fb8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T143917Z

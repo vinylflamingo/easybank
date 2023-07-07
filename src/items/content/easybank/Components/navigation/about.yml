@@ -1,0 +1,37 @@
+﻿---
+ID: "ff79c2c0-9858-5e04-9b6b-6539340d12d2"
+Parent: "d9bb57a5-0a64-5bdc-b577-194b06d88fef"
+Template: "c905cc49-4511-5fe5-8fc8-c6cd60344367"
+Path: /sitecore/content/easybank/Components/navigation/about
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0100b577-102e-51de-be91-8353a44f5973"
+      Hint: link
+      Value: |
+        <link id="{257EAE6A-6F3A-5272-AE3E-DC0FEC4F7F7C}" linktype="internal" url="/easybank/Home" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T145722Z
+    - ID: "3c36f2a7-26c2-515b-a5e2-3e45095ef952"
+      Hint: linkTitle
+      Value: About
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{FCFDBB96-946A-4D2F-BCCD-5573073FC176}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23135876-b2f7-4470-a959-fbd3f22292a9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T155053Z

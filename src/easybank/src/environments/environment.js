@@ -3,8 +3,8 @@
 // See scripts/bootstrap.ts to modify the generation of this file.
 const config = {};
 config.production = process.env.PRODUCTION || "false",
-config.sitecoreApiHost = process.env.SITECORE_API_HOST || "http://localhost:3000",
-config.sitecoreApiKey = process.env.SITECORE_API_KEY || "no-api-key-set",
+config.sitecoreApiHost = process.env.SITECORE_API_HOST || "https://cm.easybank.localhost",
+config.sitecoreApiKey = process.env.SITECORE_API_KEY || "{350BE04C-2E71-46C8-9D75-D60269BFFF0B}",
 config.jssAppName = process.env.JSS_APP_NAME || "easybank",
 config.sitecoreLayoutServiceConfig = process.env.SITECORE_LAYOUT_SERVICE_CONFIG || "jss",
 config.defaultLanguage = process.env.DEFAULT_LANGUAGE || "en",

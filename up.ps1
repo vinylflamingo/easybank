@@ -5,7 +5,7 @@ Param (
     [bool]$ByPass = $false
 )
 
-$topologyArray = "xm1";
+$topologyArray = "xm1, xp0, xp1";
 
 $ErrorActionPreference = "Stop";
 $startDirectory = ".\run\sitecore-";
@@ -123,7 +123,7 @@ if (Test-Path .\src\items\content) {
 Write-Host "Opening site..." -ForegroundColor Green
 
 Start-Process https://cm.easybank.localhost/sitecore/
-Start-Process https://www.easybank.localhost/
+#Start-Process https://www.easybank.localhost/
 
 Write-Host ""
 Write-Host "Use the following command to monitor your Rendering Host:" -ForegroundColor Green

@@ -15,12 +15,8 @@
    ```ps1
     .\up.ps1
     ```
-4. Navigate to angular project at: ./src/easybank. Run the following command: 
-  ```ps1 
-    jss start:connected
-  ```
-5. Begin Development!
-6. Before checking in, serialize new templates and content with: 
-  ```ps1 
-    dotnet sitecore ser pull
-  ```
+4. Begin Development!
+5. Before checking in, serialize new templates and content with: 
+    ```ps1 
+      dotnet sitecore ser pull
+    ```

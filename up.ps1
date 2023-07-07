@@ -120,10 +120,14 @@ if (Test-Path .\src\items\content) {
     dotnet sitecore ser pull
 }
 
-Write-Host "Opening site..." -ForegroundColor Green
+Write-Host "Starting dev site..." -ForegroundColor Green
+
+Push-Location src\easybank
+npm run install
+npm run start:connected
 
 Start-Process https://cm.easybank.localhost/sitecore/
-#Start-Process https://www.easybank.localhost/
+Start-Process http://localhost:3000/
 
 Write-Host ""
 Write-Host "Use the following command to monitor your Rendering Host:" -ForegroundColor Green

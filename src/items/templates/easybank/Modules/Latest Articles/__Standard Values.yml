@@ -1,0 +1,45 @@
+﻿---
+ID: "b40e1cc3-ab19-45eb-af47-7bf5b3695fbb"
+Parent: "4b2020d5-9802-4864-9b77-1c19a5e32a66"
+Template: "4b2020d5-9802-4864-9b77-1c19a5e32a66"
+Path: /sitecore/templates/Project/easybank/Modules/Latest Articles/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/document_tag.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T203110Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a13ccc26-dde3-4767-9219-f9f5c78912fc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230708T010105Z
+    - ID: "df2f7cfd-2b43-44e3-b47d-4e10fd76bfdf"
+      Hint: articles
+      Value: |
+        {44A31307-8875-431E-B849-5BC5B8A463AE}
+        {26A3BDE7-149A-444B-93B6-C3ACE446F84F}
+        {307870B6-1F40-471C-8094-A4F1EA4D0528}
+        {9C8AAA3D-E705-4223-8133-B54398C78FFD}
+    - ID: "ee67c7bc-27fd-484e-9725-a0182d074c7a"
+      Hint: title
+      Value: Latest Articles

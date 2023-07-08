@@ -1,0 +1,10 @@
+<div>
+  ServiceHighlights JSS Component
+  <div *scText="rendering.fields.headline"></div>
+  <div *scText="rendering.fields.text"></div>
+  <div *ngFor="let service of rendering.fields.services">
+    <img *scImage="service.fields.icon" />
+    <div *scText="service.fields.serviceName"></div>
+    <div *scText="service.fields.serviceDescription"></div>
+  </div>
+</div>

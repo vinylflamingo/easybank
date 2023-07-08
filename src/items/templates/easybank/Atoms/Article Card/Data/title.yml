@@ -1,41 +1,42 @@
 ﻿---
-ID: "c671f5c9-6fc1-540a-ad9c-954ad9a38524"
-Parent: "257eae6a-6f3a-5272-ae3e-dc0fec4f7f7c"
-Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/content/easybank/Home/Page Components
+ID: "9b317161-0d55-483f-813c-16654b233cf5"
+Parent: "29da37bf-540d-423e-ae6a-6d15a68edc49"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/easybank/Atoms/Article Card/Data/title
 SharedFields:
-- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
-  Hint: __Icon
-  Value: Office/32x32/box_into.png
-- ID: "a791f095-2521-4b4d-bef9-21dda221f608"
-  Hint: __Style
-  Value: "font-style:italic; font-size:0.85em; color: gray;"
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Single-Line Text"
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 0
+  Value: 300
 Languages:
 - Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: Title
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230707T145723Z
+      Value: 20230708T002125Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7f191850-7026-472b-9377-7ca7ea97051e"
+      Value: "58fdacff-2bac-45f8-9d21-ce6a821f1bea"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230707T201922Z
+      Value: 20230708T002237Z

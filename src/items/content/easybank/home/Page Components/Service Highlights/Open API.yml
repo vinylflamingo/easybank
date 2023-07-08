@@ -1,0 +1,37 @@
+﻿---
+ID: "cc33a232-83f1-4be2-a615-af5d3852b740"
+Parent: "88d5b67d-2d4f-4088-9ad8-c83cc3866114"
+Template: "4d5ed6e2-f82d-4a6f-bf0d-041546d93eb2"
+Path: /sitecore/content/easybank/Home/Page Components/Service Highlights/Open API
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "093db09c-9516-41f0-8832-e01c234c93d3"
+      Hint: serviceDescription
+      Value: Manage your savings, investments, pension, and much more from one account. Tracking your money has never been easier.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T211219Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "65f05b90-4652-415c-973f-dcb3d2449eab"
+    - ID: "94b19442-cdd5-4ec4-9041-53a9ee5b18fe"
+      Hint: serviceName
+      Value: Open API
+    - ID: "a98a8d3a-3a39-4117-bcb5-82f4aaeb0092"
+      Hint: icon
+      Value: |
+        <image mediaid="{32ACA583-B52E-47A9-8217-40122D58AB1E}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T212923Z

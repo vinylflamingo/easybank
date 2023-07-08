@@ -1,0 +1,10 @@
+<div>
+  LatestArticles JSS Component
+  <div *scText="rendering.fields.title"></div>
+  <div *ngFor="let article of rendering.fields.articles">
+    <img *scImage="article.fields.image" />
+    <div *scText="article.fields.author"></div>
+    <div *scText="article.fields.title"></div>
+    <div *scText="article.fields.text"></div>
+  </div>
+</div>

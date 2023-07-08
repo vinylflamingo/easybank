@@ -1,0 +1,26 @@
+﻿---
+ID: "26a3bde7-149a-444b-93b6-c3ace446f84f"
+Parent: "c948e3e0-a4bd-4ff7-b281-a67ff6833672"
+Template: "6adb0803-8846-42d0-8ff8-61736a887751"
+Path: /sitecore/content/easybank/Global Components/Articles/Article Card 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230708T003008Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4f9e836a-6123-4f33-99b0-a5fed68d5de9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230708T003131Z
+    - ID: "ffc3d2c7-9655-4482-8235-2a72e1cedaee"
+      Hint: author
+      Value: Wilson Hutton

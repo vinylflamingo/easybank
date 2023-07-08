@@ -45,11 +45,14 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "daa64f1c-ee28-4bff-9ed6-a969bfb35fb8"
+      Value: "bc9b8777-757f-44e8-8c4d-80b4d0123610"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230707T143917Z
+      Value: 20230707T201015Z
+    - ID: "f24d6e9a-3018-524e-b81c-d076ca4918bf"
+      Hint: pageTitle
+      Value: easybank

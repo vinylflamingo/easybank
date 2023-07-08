@@ -1,0 +1,34 @@
+﻿---
+ID: "cfd52a76-c3e0-46cf-b6ce-c07e9f41f493"
+Parent: "c671f5c9-6fc1-540a-ad9c-954ad9a38524"
+Template: "4b2020d5-9802-4864-9b77-1c19a5e32a66"
+Path: /sitecore/content/easybank/Home/Page Components/Latest Articles
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230708T003249Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d24e64c6-a088-4f5a-97fe-3d6c7cf984de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230708T003316Z
+    - ID: "df2f7cfd-2b43-44e3-b47d-4e10fd76bfdf"
+      Hint: articles
+      Value: |
+        {44A31307-8875-431E-B849-5BC5B8A463AE}
+        {26A3BDE7-149A-444B-93B6-C3ACE446F84F}
+        {307870B6-1F40-471C-8094-A4F1EA4D0528}
+        {9C8AAA3D-E705-4223-8133-B54398C78FFD}

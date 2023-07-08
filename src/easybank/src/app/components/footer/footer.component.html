@@ -1,0 +1,14 @@
+<div>
+  Footer JSS Component
+  <img *scImage="rendering.fields.logo" />
+  <div *ngFor="let social in rendering.fields.socials">
+    <a *scLink="social.fields.link"><img *scImage="social.fields.icon" /></a>
+  </div>
+  <div *ngFor="let link in rendering.fields.links">
+    <a *scLink="link.fields.link"><span *scText="link.fields.linkTitle.value"></span></a>
+  </div> 
+  <a *ngFor="let navLink of rendering.fields.links" [href]="navLink.fields.link.value.href">{{navLink.fields.linkTitle.value}}</a>
+  <span>
+    © <span *scText="rendering.fields.copyright"></span>
+  </span>
+</div> 

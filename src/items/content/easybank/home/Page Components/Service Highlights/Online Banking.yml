@@ -1,0 +1,37 @@
+﻿---
+ID: "730b962f-675b-4554-8bad-eed5c6bc6b9a"
+Parent: "88d5b67d-2d4f-4088-9ad8-c83cc3866114"
+Template: "4d5ed6e2-f82d-4a6f-bf0d-041546d93eb2"
+Path: /sitecore/content/easybank/Home/Page Components/Service Highlights/Online Banking
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: "-100"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "093db09c-9516-41f0-8832-e01c234c93d3"
+      Hint: serviceDescription
+      Value: Our modern web and mobile applications allow you to keep track of your finances wherever you are in the world.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T211142Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "51183d2d-3bb9-494a-86be-d7f6cdcae01b"
+    - ID: "94b19442-cdd5-4ec4-9041-53a9ee5b18fe"
+      Hint: serviceName
+      Value: Online Banking
+    - ID: "a98a8d3a-3a39-4117-bcb5-82f4aaeb0092"
+      Hint: icon
+      Value: |
+        <image mediaid="{9FCECFA3-ED37-4872-9D92-753B02C99288}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T212822Z

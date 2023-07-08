@@ -1,0 +1,23 @@
+﻿---
+ID: "bd0ec599-501a-4496-992c-a873181ba5eb"
+Parent: "c671f5c9-6fc1-540a-ad9c-954ad9a38524"
+Template: "09fb5e07-dcd5-46fe-a5e3-a4798de33b63"
+Path: /sitecore/content/easybank/Home/Page Components/Hero
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T203632Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "31ffa64d-7241-436a-9880-67e099de5e17"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T203632Z

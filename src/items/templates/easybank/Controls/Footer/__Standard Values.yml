@@ -1,0 +1,48 @@
+﻿---
+ID: "ab18cf11-dae7-4fe4-a77f-3faad5ff3229"
+Parent: "1c5e85c0-775c-405a-9696-958214228af9"
+Template: "1c5e85c0-775c-405a-9696-958214228af9"
+Path: /sitecore/templates/Project/easybank/Controls/Footer/__Standard Values
+SharedFields:
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T143916Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f830381-8c44-4a4d-a3c7-5ac3d3f052e4"
+    - ID: "a4cd1ae0-98b6-4523-b2af-24290074a5dc"
+      Hint: logo
+      Value: |
+        <image mediaid="{03D8B363-A27C-5EDE-B0F6-3F195BB5B4D0}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230708T004416Z
+    - ID: "ffc81df6-213a-40c4-9a69-4f54361c7026"
+      Hint: links
+      Value: |
+        {FF79C2C0-9858-5E04-9B6B-6539340D12D2}
+        {79CFBA6C-CEF4-5877-AE63-415E37D7ECFE}
+        {853A6308-8622-5431-B69B-14FFC5F97E0A}
+        {B42E735F-69E6-5B76-B497-D98E9A6E2B7E}
+        {D62F2411-BD29-5CB3-A3A9-E86F90711112}
+        {A0E2D1D5-3A73-4A09-A300-CFBD5B0E8085}

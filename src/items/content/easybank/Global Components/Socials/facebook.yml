@@ -1,0 +1,23 @@
+﻿---
+ID: "c59c959e-5e81-4b82-b6d9-f80e6bb9b734"
+Parent: "0649781b-4e39-4483-980d-432cf5192861"
+Template: "4479e670-39a4-464d-9fce-3e73a2038b13"
+Path: /sitecore/content/easybank/Global Components/Socials/facebook
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230708T010300Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d268ce3-da9e-4d6e-a93f-07583efeca1c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230708T010300Z

@@ -1,18 +1,18 @@
 ﻿---
-ID: "0473cb85-43c7-5328-a92b-f571e0dbb281"
+ID: "83f708bb-1141-453d-ae15-0574317d90d8"
 Parent: "8d5d26a8-7a64-5b31-8325-20497b7307bf"
 Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
-Path: /sitecore/layout/Renderings/Project/easybank/Navigation
+Path: /sitecore/layout/Renderings/Project/easybank/Service Highlights
 SharedFields:
 - ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
   Hint: componentName
-  Value: Navigation
+  Value: ServiceHighlights
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: Software/32x32/text_code_javascript.png
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Project/easybank/Controls/Navigation
+  Value: 
 - ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
   Hint: __Read Only
   Value: 
@@ -37,11 +37,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "0c869e6b-af64-445f-99aa-e2461f8d976d"
+      Value: "fd2f6411-b82c-443f-91d3-fd203544c4b7"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230707T204322Z
+      Value: 20230707T212007Z

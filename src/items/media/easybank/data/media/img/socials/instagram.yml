@@ -1,0 +1,60 @@
+﻿---
+ID: "45a729fc-a090-4804-b40c-b9789bdad041"
+Parent: "d42f2571-70a9-41aa-96bc-d8aba41963be"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/easybank/data/media/img/socials/instagram
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/45A729FCA0904804B40CB9789BDAD041.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 48
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f58c51ac-3468-4047-8208-afa33ccdc111"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD0ElEQVRoge2ZWUhVURSGVSwD0zDFKLCymUJEKKQiKQIrhEYKowehXkIoDKGRiB6MCIqiIBoetMIQaSawkaBslAZCKM2K5shsgrLSVv/iXGG77j7nnnPuceuDC74X91pr/+u65xMT02u91muujIjGgRJwGtwDr0BLQDSCWlAOloLUIIVPAefIrP0GB8CQaITHg+2GhUv7Dub6EZ8ALrno4CtFP3y+ReijDaz0WsAhTaI/4AhYCAaDeM+/jH1/fUEGWEbWcP2nKSLfbbJFGvG3wfCgBLvQkAteCg2fKdLkhkMceCwCr4MEQ9pVLenghdCyLVLQbBHA43OQAbFJZC3Rm8Eo5e+5Yjj9AIlOifaIAsoMiOfx/0CIHK20nxSaCpyS1QvnLAMF5FG4bVXa54m23U7JfiqOvMTFehTDv2Y+2AcukDWf6sBZsAVka2JyNAWUKu3J1HkYnbfrPFkkqfcgnCf/YgqfdDrjFS1PxJcr7Vz0ANHeorTftRMxVHR006X4geCyC+Gq8S/Ku3yckmcimEmaFY+ss1KHPbMTMkx0UutCfCp44lG8ahXkYpjCp0GJaQqkALT3Adc0ot6BjWSN7TSydu3pZM2LXxr/Td1VwGqNGB7Ltus02jLBfRHDx4TxRgsga+P5JPwPO4kQsXK3P2O6gELh+5w8HDfgmxX65dX/QrrJAo4L32K34pUcJ0SO5SYLeCR8M3wUUCRy7DJZgDr+W8njjh3KMVX0V2WygI+KH1904ux8HXLIM1ClyQIeCt9MHwWsEDl2mizgmPAt8VGAfOkoMlnAEuH7hpwuGuHxk6jzCZOX0TSTBSSCD8K/ilzMBbLOT40itjpCTJccJYop3E6Rw8WbrA1MHv54ERjTHQXww9dFTRFfwA4wI5STnyTnkzVv2jT+pU79dFkBoZgUCj/XeLGDkfrwUoDfCw3f5Ly+nbaD9W7yh/pQ54xtAdFcKWPJWpnk5NRZDWnuxhHyNyvxdU6OrYpjs5dOQvF8N54MykA1uAGugqNgDRjhI2c/6rzk1jg5yxVirNcOgzZomCU02c8bNO4VzhsMarXTVC40FTo5FwhnPrQlG9Qr9eguPrY7tt3jLn9S8nxcjtbIeq5pEFoq3AQuoHDjZTK471aRNWSDp0ID79gj3SbQfeDgrzH8GMUvxoF93FD67E/W63gl6XfsVV6S8RvnFU2SDuOPcG9BU0DwXGt36G+/n1+kJ3zk+wvWUTRzEMFzwB3Dwnnj4hftHN/CNYVMI2uHvQXek36c+jV+cnxN1pfRtWBCYMIjFJUSAElGxPZU+w8ojRHn/O+DZgAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1054
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 48 x 48
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 48
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230708T005912Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: instagram
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "178b34a0-5fc0-456c-ad7e-de619bbe5c94"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230708T005922Z

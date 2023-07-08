@@ -1,0 +1,48 @@
+﻿---
+ID: "9007a01c-0f98-4fad-be5a-f420220b25b2"
+Parent: "6adb0803-8846-42d0-8ff8-61736a887751"
+Template: "6adb0803-8846-42d0-8ff8-61736a887751"
+Path: /sitecore/templates/Project/easybank/Atoms/Article Card/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04335f3b-dece-433f-aa24-f0b223bef395"
+      Hint: link
+      Value: |
+        <link linktype="external" url="https://google.com" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230708T002257Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "56aaa298-d933-43d9-b37e-bfec9cf17429"
+      Hint: image
+      Value: |
+        <image mediaid="{93E8E62D-E64A-4CE5-BCCC-BA237ACB8E5B}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ecaeb79-4a1d-49fa-bb38-f15013fa244c"
+    - ID: "9b317161-0d55-483f-813c-16654b233cf5"
+      Hint: title
+      Value: Treat yourself without worrying about money
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d44e258f-6e7c-4871-b50e-08b30f27accb"
+      Hint: text
+      Value: Our simple budgeting feature allows you to separate out your spending and set realistic limits each month. That means you …
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230708T002536Z
+    - ID: "ffc3d2c7-9655-4482-8235-2a72e1cedaee"
+      Hint: author
+      Value: By Wilson Hutton

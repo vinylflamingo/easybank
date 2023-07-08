@@ -7,6 +7,59 @@ SharedFields:
 - ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
   Hint: __Workflow
   Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <p
+          uid="{FF398819-23BB-5D18-B607-08D05BA182F6}">
+          <p:d />
+        </p>
+        <r
+          uid="{588BD914-C988-4DDE-9E90-53FA6646C426}"
+          p:after="p[@uid='{3DD8E705-96CD-53AD-B3D3-34D933CD3C64}']"
+          s:ds="{4E7EB136-21BB-5628-9800-7AD4A4BB1064}"
+          s:id="{0473CB85-43C7-5328-A92B-F571E0DBB281}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E132C0A9-F53E-45F5-BCF8-F9710D15DE65}"
+          p:after="r[@uid='{588BD914-C988-4DDE-9E90-53FA6646C426}']"
+          s:ds="{BD0EC599-501A-4496-992C-A873181BA5EB}"
+          s:id="{C2A985D5-4A82-4997-898E-78E56E92642E}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{EB241DFA-5752-4749-B2D9-9917CF7271E9}"
+          p:after="r[@uid='{E132C0A9-F53E-45F5-BCF8-F9710D15DE65}']"
+          s:ds="{88D5B67D-2D4F-4088-9AD8-C83CC3866114}"
+          s:id="{83F708BB-1141-453D-AE15-0574317D90D8}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{2A8E0829-60DE-44FE-BDBF-18229758606C}"
+          p:after="r[@uid='{EB241DFA-5752-4749-B2D9-9917CF7271E9}']"
+          s:ds="{CFD52A76-C3E0-46CF-B6CE-C07E9F41F493}"
+          s:id="{5DB47006-7E50-4616-A8C0-AF537450BFD6}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{442EBF08-5FD5-4DF5-BF6C-4CAD1F08D6DA}"
+          p:after="*[1=2]"
+          s:ds="{D784F103-54D4-402D-AFF0-EE0FDA6FF9C5}"
+          s:id="{74F0C670-8D30-4DA1-A917-A14ED4BFF622}"
+          s:par=""
+          s:ph="jss-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -15,23 +68,6 @@ Languages:
     - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
       Hint: __Lock
       Value: <r />
-    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
-      Hint: __Final Renderings
-      Value: |
-        <r xmlns:p="p" xmlns:s="s"
-          p:p="1">
-          <d
-            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-            <r
-              uid="{73F8FDD8-8AE0-56DC-89C8-5BB2CF7F5A8D}"
-              p:after="*[1=2]"
-              s:rname="Navigation"
-              s:ds="{4E7EB136-21BB-5628-9800-7AD4A4BB1064}"
-              s:id="{0473CB85-43C7-5328-A92B-F571E0DBB281}"
-              s:par=""
-              s:ph="/jss-main" />
-          </d>
-        </r>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230707T145723Z
@@ -40,14 +76,14 @@ Languages:
       Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "4fc0473f-2277-41da-a933-5cc303f5ce93"
+      Value: "7924221a-a45b-4411-9d9d-d5050105c2eb"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230707T154642Z
+      Value: 20230708T010823Z
     - ID: "f24d6e9a-3018-524e-b81c-d076ca4918bf"
       Hint: pageTitle
-      Value: Easy Bank | A new way of banking.
+      Value: easybank

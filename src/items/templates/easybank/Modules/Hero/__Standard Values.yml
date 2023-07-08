@@ -1,0 +1,48 @@
+﻿---
+ID: "c45124ac-9b9a-4a1d-a848-08a478a67943"
+Parent: "09fb5e07-dcd5-46fe-a5e3-a4798de33b63"
+Template: "09fb5e07-dcd5-46fe-a5e3-a4798de33b63"
+Path: /sitecore/templates/Project/easybank/Modules/Hero/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/16x16/document_tag.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17091b66-99b3-4138-9eb9-3960ece84692"
+      Hint: ctaText
+      Value: Request Invite
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230707T203110Z
+    - ID: "51bba478-aba2-42d1-8815-5115d6c0b688"
+      Hint: ctaLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{257EAE6A-6F3A-5272-AE3E-DC0FEC4F7F7C}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "6b43ca46-c48e-4621-8045-f77391e0f614"
+      Hint: heroText
+      Value: "Take your financial life online. Your Easybank account will be a one-stop-shop for spending, saving, budgeting, investing, and much more."
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "04c1b585-9bd7-4dea-98f2-1fab6497f400"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230707T203522Z
+    - ID: "f2ef4620-052f-43e2-b466-da3e43452464"
+      Hint: heroTitle
+      Value: Next generation digital banking 

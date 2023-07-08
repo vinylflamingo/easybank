@@ -1,0 +1,59 @@
+﻿---
+ID: "d784f103-54d4-402d-aff0-ee0fda6ff9c5"
+Parent: "d9bb57a5-0a64-5bdc-b577-194b06d88fef"
+Template: "1c5e85c0-775c-405a-9696-958214228af9"
+Path: /sitecore/content/easybank/Global Components/Navigation/Footer
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{6C59AE29-D0A1-4B77-9305-0ABAB21D5FE5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0b324d74-60f8-45cb-b504-36dd4e95c53f"
+      Hint: socials
+      Value: |
+        {C59C959E-5E81-4B82-B6D9-F80E6BB9B734}
+        {F829829E-B201-4A6A-B18A-5BCDCF3B5078}
+        {2E1E3DAD-A031-445D-828F-9FBED59CE989}
+        {357C2371-3EA7-447E-BB22-8F286B660F03}
+        {F5AF5588-05C1-4A6B-ACD2-8C9D5D1EAF15}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230708T010205Z
+    - ID: "3927aa38-cc3b-4a83-bd8e-97b26625880e"
+      Hint: requestLinkTitle
+      Value: Request Invite
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5e5f4d9a-aea6-4bf6-bb67-1ab9b654fa35"
+      Hint: requestLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{257EAE6A-6F3A-5272-AE3E-DC0FEC4F7F7C}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2a7098f-cc48-4452-9b43-6c3e90464a90"
+    - ID: "aeb1f31d-63ab-4b93-b4f0-00c03ca8d4dc"
+      Hint: copyright
+      Value: Easybank. All Rights Reserved.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230708T010715Z

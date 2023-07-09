@@ -31,7 +31,7 @@ Languages:
       Value: Request Invite
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
@@ -46,7 +46,11 @@ Languages:
         <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{257EAE6A-6F3A-5272-AE3E-DC0FEC4F7F7C}" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c2a7098f-cc48-4452-9b43-6c3e90464a90"
+      Value: "5c2acb9c-52f0-424b-a795-f498d815e4cb"
+    - ID: "a4cd1ae0-98b6-4523-b2af-24290074a5dc"
+      Hint: logo
+      Value: |
+        <image mediaid="{71A18ED8-75B2-40E7-81E6-18FDCD5AD184}" />
     - ID: "aeb1f31d-63ab-4b93-b4f0-00c03ca8d4dc"
       Hint: copyright
       Value: Easybank. All Rights Reserved.
@@ -56,4 +60,4 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230708T010715Z
+      Value: 20230708T232912Z

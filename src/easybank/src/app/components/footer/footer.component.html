@@ -1,14 +1,28 @@
-<div>
-  Footer JSS Component
-  <img *scImage="rendering.fields.logo" />
-  <div *ngFor="let social in rendering.fields.socials">
-    <a *scLink="social.fields.link"><img *scImage="social.fields.icon" /></a>
+<div class="footer">
+
+  <div class="footer-section">
+    <img *scImage="rendering.fields.logo" class="footer-logo"/>
+    <div class="footer-socials">
+      <ng-container *ngFor="let social of rendering.fields.socials">
+        <a *scLink="social.fields.link">
+          <img *scImage="social.fields.icon" alt="social link" class="social-icon"/>
+        </a>
+      </ng-container>
+    </div>
   </div>
-  <div *ngFor="let link in rendering.fields.links">
-    <a *scLink="link.fields.link"><span *scText="link.fields.linkTitle.value"></span></a>
-  </div> 
-  <a *ngFor="let navLink of rendering.fields.links" [href]="navLink.fields.link.value.href">{{navLink.fields.linkTitle.value}}</a>
-  <span>
-    © <span *scText="rendering.fields.copyright"></span>
-  </span>
+
+  <div class="links-section">
+    <div *ngFor="let group of linkGroups" class="link-group">
+      <a *ngFor="let navLink of group" [href]="navLink.fields.link.value.href" class="text-white">{{navLink.fields.linkTitle.value}}</a>
+    </div>
+  </div>
+
+  <div class="footer-section align-end">
+    <a *scLink="rendering.fields.requestLink">
+      <p *scText="rendering.fields.requestLinkTitle" class="ctabutton"></p>
+    </a>
+    <span>
+      © <span *scText="rendering.fields.copyright"></span>
+    </span>
+  </div>
 </div> 

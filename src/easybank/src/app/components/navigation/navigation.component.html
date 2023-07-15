@@ -1,13 +1,13 @@
-<div #navigation class="navigation">
+<div #navigation class="navigation" [ngClass]="isScrolled ? 'fade-in nav-shadow' : 'fade-out'">
   <nav>
     <div #navigationLogo class="logo">
       <img *scImage="rendering.fields.logo" />
     </div>
-    <div #navigationLinks>
+    <div #navigationLinks class="nav-links">
       <a *ngFor="let navLink of rendering.fields.links" [href]="navLink.fields.link.value.href">{{navLink.fields.linkTitle.value}}</a>
     </div>
-    <div #navigationCta class="cta-button">
-      <a *scLink="rendering.fields.requestLink"><p *scText="rendering.fields.requestLinkTitle"></p></a>
+    <div #navigationCta class="ctabutton">
+      <a *scLink="rendering.fields.requestLink"><p *scText="rendering.fields.requestLinkTitle" class="text-white"></p></a>
     </div>
   </nav>
 </div>
@@ -16,4 +16,4 @@
 
 </div>
 
-<div style="margin-top: 6rem;"></div>
+<div class="buffer"></div>

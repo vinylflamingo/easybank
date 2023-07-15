@@ -1,19 +1,20 @@
 <div class="footer">
 
-  <div class="footer-section">
-    <img *scImage="rendering.fields.logo" class="footer-logo"/>
-    <div class="footer-socials">
-      <ng-container *ngFor="let social of rendering.fields.socials">
-        <a *scLink="social.fields.link">
-          <img *scImage="social.fields.icon" alt="social link" class="social-icon"/>
-        </a>
-      </ng-container>
+  <div class="footer-multi-section">
+    <div class="footer-section">
+      <img *scImage="rendering.fields.logo" class="footer-logo"/>
+      <div class="footer-socials">
+        <ng-container *ngFor="let social of rendering.fields.socials">
+          <a *scLink="social.fields.link">
+            <img *scImage="social.fields.icon" alt="social link" class="social-icon"/>
+          </a>
+        </ng-container>
+      </div>
     </div>
-  </div>
-
-  <div class="links-section">
-    <div *ngFor="let group of linkGroups" class="link-group">
-      <a *ngFor="let navLink of group" [href]="navLink.fields.link.value.href" class="text-white">{{navLink.fields.linkTitle.value}}</a>
+    <div class="links-section">
+      <div *ngFor="let group of linkGroups" class="link-group">
+        <a *ngFor="let navLink of group" [href]="navLink.fields.link.value.href" class="text-white">{{navLink.fields.linkTitle.value}}</a>
+      </div>
     </div>
   </div>
 

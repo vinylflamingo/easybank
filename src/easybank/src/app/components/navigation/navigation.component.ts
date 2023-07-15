@@ -1,4 +1,4 @@
-import { Component, OnInit, Input } from '@angular/core';
+import { Component, OnInit, Input, HostListener  } from '@angular/core';
 import { ComponentRendering } from '@sitecore-jss/sitecore-jss-angular';
 
 @Component({
@@ -8,6 +8,19 @@ import { ComponentRendering } from '@sitecore-jss/sitecore-jss-angular';
 })
 export class NavigationComponent implements OnInit {
   @Input() rendering: ComponentRendering;
+  isScrolled = false;
+
+  @HostListener('window:scroll', [])
+  onWindowScroll() {
+    // if the scroll is more than 50px, add the shadow class
+    const scrollOffset = window.scrollY || document.documentElement.scrollTop || document.body.scrollTop || 0;
+
+    if (scrollOffset > 50) {
+      this.isScrolled = true;
+    } else {
+      this.isScrolled = false;
+    }
+  }
 
   constructor() { }
 

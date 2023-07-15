@@ -23,6 +23,13 @@
     padding: 0;
 }
 
+.nav-links {
+    display: inline-flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 1.875rem;
+}
+
 .cta-button {
     display: flex;
     justify-content: center;
@@ -37,4 +44,40 @@
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.nav-shadow {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@keyframes fadeIn {
+    0% {
+      box-shadow: none;
+    }
+    100% {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+}
+  
+.fade-in {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+}
+
+@keyframes fadeOut {
+    0% {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    100% {
+      box-shadow: none;
+    }
+  }
+  
+.fade-out {
+    animation-name: fadeOut;
+    animation-duration: 1s;
+}
+
+.buffer {
+margin-top: 6rem;
 }

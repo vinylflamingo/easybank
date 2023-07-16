@@ -21,10 +21,6 @@ SharedFields:
           uid="{3DD8E705-96CD-53AD-B3D3-34D933CD3C64}"
           key="jss-main"
           md="{A30BFC39-731B-5F7D-A600-71B713801B22}" />
-        <p
-          uid="{FF398819-23BB-5D18-B607-08D05BA182F6}"
-          key="jss-tabs"
-          md="{04F4EB3A-93B7-5F7D-821A-EF3A78A934DA}" />
       </d>
     </r>
 Languages:
@@ -45,14 +41,14 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "bc9b8777-757f-44e8-8c4d-80b4d0123610"
+      Value: "6163e6d7-ca10-4400-83ff-9357ead1940e"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230707T201015Z
+      Value: 20230716T010549Z
     - ID: "f24d6e9a-3018-524e-b81c-d076ca4918bf"
       Hint: pageTitle
       Value: easybank

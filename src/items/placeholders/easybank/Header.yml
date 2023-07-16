@@ -1,42 +1,38 @@
 ﻿---
-ID: "04f4eb3a-93b7-5f7d-821a-ef3a78a934da"
+ID: "08cda304-6dac-4c91-af0e-ed583385161e"
 Parent: "00800bb3-fd14-5ba9-8148-649f6c5c4363"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/easybank/jss-tabs"
+Path: /sitecore/layout/Placeholder Settings/Project/easybank/Header
 SharedFields:
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
-  Value: "jss-tabs"
-- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
-  Hint: __Read Only
-  Value: 1
+  Value: "jss-header"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: "{0473CB85-43C7-5328-A92B-F571E0DBB281}"
 Languages:
 - Language: en
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: Tabs
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230707T143916Z
+      Value: 20230716T010508Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "e77fc1b1-2489-4a55-b3f2-45d2f7945a5b"
+      Value: "d0fb69be-ade6-4a4c-a609-7b1e8273faea"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230707T143919Z
+      Value: 20230716T010612Z

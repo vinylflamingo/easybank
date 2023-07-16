@@ -12,6 +12,14 @@ export default (manifest: Manifest) => {
       name: 'jss-main',
       displayName: 'Main',
     },
+    {
+      name: 'jss-header',
+      displayName: 'jss-header',
+    },
+    {
+      name: 'jss-footer',
+      displayName: 'jss-header',
+    },
     // you can optionally pass a GUID or unique (app-wide) string as an ID
     // this will inform the ID that is set when imported into Sitecore.
     // If the ID is not set, an ID is created based on the placeholder name.

@@ -14,17 +14,13 @@ SharedFields:
       p:p="1">
       <d
         id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
-        <p
-          uid="{FF398819-23BB-5D18-B607-08D05BA182F6}">
-          <p:d />
-        </p>
         <r
           uid="{588BD914-C988-4DDE-9E90-53FA6646C426}"
           p:after="p[@uid='{3DD8E705-96CD-53AD-B3D3-34D933CD3C64}']"
           s:ds="{4E7EB136-21BB-5628-9800-7AD4A4BB1064}"
           s:id="{0473CB85-43C7-5328-A92B-F571E0DBB281}"
           s:par=""
-          s:ph="jss-main"
+          s:ph="jss-header"
           s:ccb="Clear on publish" />
         <r
           uid="{E132C0A9-F53E-45F5-BCF8-F9710D15DE65}"
@@ -76,14 +72,14 @@ Languages:
       Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "7924221a-a45b-4411-9d9d-d5050105c2eb"
+      Value: "630af1e6-7e37-420a-9b08-6cdd75ae1923"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230708T010823Z
+      Value: 20230716T010634Z
     - ID: "f24d6e9a-3018-524e-b81c-d076ca4918bf"
       Hint: pageTitle
       Value: easybank

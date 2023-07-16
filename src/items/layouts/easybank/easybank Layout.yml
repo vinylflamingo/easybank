@@ -6,10 +6,13 @@ Path: /sitecore/layout/Layouts/Project/easybank/easybank Layout
 SharedFields:
 - ID: "80334869-86dc-4472-aa89-44cf1b2f6c9b"
   Hint: Placeholders
-  Value: "{A30BFC39-731B-5F7D-A600-71B713801B22}"
+  Value: |
+    {A30BFC39-731B-5F7D-A600-71B713801B22}
+    {3E94A675-4E3C-471E-ADFE-D0EEE770CC41}
+    {08CDA304-6DAC-4C91-AF0E-ED583385161E}
 - ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
   Hint: __Read Only
-  Value: 1
+  Value: 
 Languages:
 - Language: en
   Versions:
@@ -28,11 +31,11 @@ Languages:
         sitecore\JssImport
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6c30678e-9285-49e2-a37c-b5248a4ab979"
+      Value: "ebbe5c2e-8cbd-4a0a-89c0-f02b13726901"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230707T143919Z
+      Value: 20230716T011125Z

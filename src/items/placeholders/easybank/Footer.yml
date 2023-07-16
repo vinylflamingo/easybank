@@ -1,49 +1,38 @@
 ﻿---
-ID: "a30bfc39-731b-5f7d-a600-71b713801b22"
+ID: "3e94a675-4e3c-471e-adfe-d0eee770cc41"
 Parent: "00800bb3-fd14-5ba9-8148-649f6c5c4363"
 Template: "5c547d4e-7111-4995-95b0-6b561751bf2e"
-Path: "/sitecore/layout/Placeholder Settings/Project/easybank/jss-main"
+Path: /sitecore/layout/Placeholder Settings/Project/easybank/Footer
 SharedFields:
 - ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
   Hint: Placeholder Key
-  Value: "jss-main"
-- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
-  Hint: __Read Only
-  Value: 1
+  Value: "jss-footer"
 - ID: "e391b526-d0c5-439d-803e-17512eae6222"
   Hint: Allowed Controls
-  Value: |
-    {C2A985D5-4A82-4997-898E-78E56E92642E}
-    {5DB47006-7E50-4616-A8C0-AF537450BFD6}
-    {83F708BB-1141-453D-AE15-0574317D90D8}
-    {74F0C670-8D30-4DA1-A917-A14ED4BFF622}
+  Value: "{74F0C670-8D30-4DA1-A917-A14ED4BFF622}"
 Languages:
 - Language: en
-  Fields:
-  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
-    Hint: __Display name
-    Value: Main
   Versions:
   - Version: 1
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20230707T143916Z
+      Value: 20230716T010529Z
     - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
       Hint: __Owner
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\JssImport
+        sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "5ac6229b-2dde-418e-97c8-360f031349df"
+      Value: "3fccc011-bdf5-41a5-8a11-e3125e8aa975"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230716T004251Z
+      Value: 20230716T010601Z

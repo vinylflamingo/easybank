@@ -5,7 +5,9 @@
   "config": {
     "appName": "easybank",
     "rootPlaceholders": [
-      "jss-main"
+      "jss-main",
+      "jss-header",
+      "jss-footer"
     ],
     "sitecoreDistPath": "/dist/easybank",
     "sitecoreConfigPath": "/App_Config/Include/zzz",

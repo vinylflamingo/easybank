@@ -24,7 +24,7 @@ Languages:
       Value: 20230707T145723Z
     - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
       Hint: __Workflow state
-      Value: "{AF32C98B-C828-42AF-A649-74C1DE3303FB}"
+      Value: "{C55B483C-EA7F-4E76-A066-985F7D9396CA}"
     - ID: "6e818823-100e-56ac-8990-433fb609d3da"
       Hint: logo
       Value: |
@@ -35,7 +35,7 @@ Languages:
         <link id="{257EAE6A-6F3A-5272-AE3E-DC0FEC4F7F7C}" linktype="internal" url="/easybank/Home" />
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "087eec08-7404-4cd1-8d33-b9a3bc83d15e"
+      Value: "ede8cb6e-1e63-4232-8493-0731a2be9192"
     - ID: "8d41e5cc-6ffa-5227-89e6-ac6b4e114859"
       Hint: links
       Value: |
@@ -50,7 +50,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230707T202249Z
+      Value: 20230716T004320Z
     - ID: "eed097b4-a036-59fa-96c1-084aa18e1422"
       Hint: requestLinkTitle
       Value: Request Invite

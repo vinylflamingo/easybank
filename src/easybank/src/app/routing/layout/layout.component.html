@@ -1,11 +1,27 @@
 <div class="">
   <ng-container *ngIf="state === LayoutState.Layout">
     <app-visitor-identification></app-visitor-identification>
-    <sc-placeholder
-      name="jss-main"
-      [rendering]="route"
-      (loaded)="onPlaceholderLoaded($event)"
-    ></sc-placeholder>
+      <sc-placeholder
+        name="jss-header"
+        [rendering]="route"
+        (loaded)="onPlaceholderLoaded($event)"
+        class="jss-header"
+      ></sc-placeholder>
+
+      <sc-placeholder
+        name="jss-main"
+        [rendering]="route"
+        (loaded)="onPlaceholderLoaded($event)"
+        class="jss-main"
+      ></sc-placeholder>
+
+      <sc-placeholder
+        name="jss-footer"
+        [rendering]="route"
+        (loaded)="onPlaceholderLoaded($event)"
+        class="jss-main"
+      ></sc-placeholder>
+
   </ng-container>
 
   <app-not-found
